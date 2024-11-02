@@ -1,0 +1,66 @@
+{
+  "id": "bcee119f-4be1-43d1-a5c3-c843ba3028f0",
+  "title": "sehat",
+  "author": "",
+  "description": "own course",
+  "license": "by-sa",
+  "metadata": {
+    "author": {},
+    "site": {
+      "name": "sehat",
+      "logo": "assets/banner.jpg",
+      "settings": {
+        "lang": "en-US",
+        "publishPagesOn": true
+      },
+      "created": 1730514192,
+      "updated": 1730514192,
+      "git": {
+        "vendor": "github",
+        "branch": "gh-pages"
+      }
+    },
+    "theme": {
+      "element": "clean-one",
+      "path": "@haxtheweb/clean-one/clean-one.js",
+      "name": "Clean course theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/BlueStyle.svg",
+      "variables": {
+        "icon": "av:library-add",
+        "hexCode": "#3f51b5",
+        "cssVariable": "--simple-colors-default-theme-light-blue-7"
+      }
+    },
+    "node": {
+      "fields": {}
+    },
+    "build": {
+      "version": "9.0.10",
+      "structure": "course",
+      "type": "own"
+    }
+  },
+  "items": [
+    {
+      "id": "item-991344f0-3043-4258-a637-fa90508ad9b6",
+      "indent": 0,
+      "location": "pages/item-991344f0-3043-4258-a637-fa90508ad9b6/index.html",
+      "slug": "welcome",
+      "order": 0,
+      "parent": null,
+      "title": "Welcome to sehat dan beradab",
+      "description": "Selamat belajar untuk Hidup sehat, mental dan badan.\nApa itu sehat?\nHidup untuk lebih sehat, halal dan baik untuk badan.&#160;Kementerian Kesehatan (Kemenkes) menyarankan batas konsumsi gula, garam, ",
+      "metadata": {
+        "created": 1730514192,
+        "updated": 1730514695,
+        "published": true,
+        "pageType": "activity",
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "videos": {},
+        "images": {}
+      }
+    }
+  ]
+}
