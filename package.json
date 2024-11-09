@@ -1,7 +1,7 @@
 {
-  "name": "{{ short }}",
-  "version": "{{ version }}",
-  "description": "{{ description }}",
+  "name": "sehat",
+  "version": "9.0.10",
+  "description": "own course",
   "main": "index.html",
   "author": {
     "name": "btopro"

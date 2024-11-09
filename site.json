@@ -5,31 +5,48 @@
   "description": "own course",
   "license": "by-sa",
   "metadata": {
-    "author": {},
+    "author": {
+      "image": "",
+      "name": null,
+      "email": null,
+      "socialLink": null
+    },
     "site": {
       "name": "sehat",
       "logo": "assets/banner.jpg",
       "settings": {
         "lang": "en-US",
-        "publishPagesOn": true
+        "publishPagesOn": true,
+        "pathauto": true,
+        "sw": false,
+        "forceUpgrade": false,
+        "gaID": null
       },
       "created": 1730514192,
-      "updated": 1730514192,
+      "updated": 1731164628,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
-      }
+      },
+      "version": "9.0.10",
+      "domain": null,
+      "tags": null,
+      "static": {}
     },
     "theme": {
-      "element": "clean-one",
-      "path": "@haxtheweb/clean-one/clean-one.js",
-      "name": "Clean course theme",
-      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/BlueStyle.svg",
+      "element": "polaris-invent-theme",
+      "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
+      "name": "Polaris - Invent",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
-        "icon": "av:library-add",
+        "image": "",
+        "imageAlt": "sssss",
+        "imageLink": "assets/banner.jpg",
         "hexCode": "#3f51b5",
-        "cssVariable": "--simple-colors-default-theme-light-blue-7"
-      }
+        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "icon": "av:library-add"
+      },
+      "regions": {}
     },
     "node": {
       "fields": {}
@@ -61,6 +78,26 @@
         "videos": {},
         "images": {},
         "icon": "hax:ticket"
+      }
+    },
+    {
+      "id": "item-dbe1b8a9-6ae3-49b0-a471-aa168b018461",
+      "indent": 0,
+      "location": "pages/item-dbe1b8a9-6ae3-49b0-a471-aa168b018461/index.html",
+      "slug": "page",
+      "order": 1,
+      "parent": null,
+      "title": "Hewan Halal dimakan",
+      "description": "Hidup di dua alam\nPerselisihan Ulama\nPara ulama madzhab memiliki silang pendapat dalam masalah hewan yang hidup di dua alam (air dan darat). Rinciannya sebagai berikut.Ulama Syafi’iyah: Membolehkan s",
+      "metadata": {
+        "created": 1731165097,
+        "updated": 1731165343,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
