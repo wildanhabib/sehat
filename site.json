@@ -49,17 +49,18 @@
       "order": 0,
       "parent": null,
       "title": "Welcome to sehat dan beradab",
-      "description": "Selamat belajar untuk Hidup sehat, mental dan badan.\nApa itu sehat?\nHidup untuk lebih sehat, halal dan baik untuk badan.&#160;Kementerian Kesehatan (Kemenkes) menyarankan batas konsumsi gula, garam, ",
+      "description": "Selamat belajar untuk Hidup sehat, mental dan badan.\nApa itu sehat?\nHidup untuk lebih sehat, halal dan baik untuk badan. Kementerian Kesehatan (Kemenkes) menyarankan batas konsumsi gula, garam, ",
       "metadata": {
         "created": 1730514192,
-        "updated": 1730514695,
+        "updated": 1731163874,
         "published": true,
         "pageType": "activity",
         "hideInMenu": false,
         "locked": false,
         "readtime": 1,
         "videos": {},
-        "images": {}
+        "images": {},
+        "icon": "hax:ticket"
       }
     }
   ]
