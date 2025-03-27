@@ -107,13 +107,13 @@
       "slug": "page-1",
       "order": 2,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "Sehat Muslim",
+      "description": "\n\n\n",
       "metadata": {
         "created": 1743046668,
-        "updated": 1743046668,
-        "images": [],
-        "videos": [],
+        "updated": 1743046897,
+        "images": {},
+        "videos": {},
         "files": [
           {
             "path": "/home/wildanhabib/sehat/files/Teh-tawar-manis-600x600.jpg",
@@ -123,7 +123,11 @@
             "name": "Teh-tawar-manis-600x600.jpg",
             "size": 51880
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
