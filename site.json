@@ -113,7 +113,17 @@
         "created": 1743046668,
         "updated": 1743046668,
         "images": [],
-        "videos": []
+        "videos": [],
+        "files": [
+          {
+            "path": "/home/wildanhabib/sehat/files/Teh-tawar-manis-600x600.jpg",
+            "fullUrl": "//home/wildanhabib/sehat/files/Teh-tawar-manis-600x600.jpg",
+            "url": "files/Teh-tawar-manis-600x600.jpg",
+            "type": "image/jpeg",
+            "name": "Teh-tawar-manis-600x600.jpg",
+            "size": 51880
+          }
+        ]
       }
     }
   ]
